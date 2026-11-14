@@ -1,0 +1,156 @@
+[
+  {
+    "n": 1,
+    "method": "GET",
+    "url": "https://www.arrt.org/api/userinfo",
+    "type": "xhr",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "post_data": null,
+    "size_bytes": 76,
+    "saved_as": "01_GET_userinfo.txt"
+  },
+  {
+    "n": 2,
+    "method": "GET",
+    "url": "https://www.arrt.org/api/Webnotice/GetActiveWebnotice",
+    "type": "xhr",
+    "status": 204,
+    "content_type": "",
+    "post_data": null,
+    "size_bytes": 0,
+    "saved_as": "02_GET_GetActiveWebnotice.txt"
+  },
+  {
+    "n": 3,
+    "method": "GET",
+    "url": "https://www.arrt.org/api/userinfo",
+    "type": "xhr",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "post_data": null,
+    "size_bytes": 76,
+    "saved_as": "03_GET_userinfo.txt"
+  },
+  {
+    "n": 3,
+    "method": "GET",
+    "url": "https://www.arrt.org/manifest.webmanifest?v=bjwtdH3B1x_IYVwlBSyBTzzdcvGaIiTA78IyQSBYWzA",
+    "type": "manifest",
+    "status": 200,
+    "content_type": "application/manifest+json",
+    "post_data": null,
+    "size_bytes": 428,
+    "saved_as": "03_GET_manifest.webmanifest.txt"
+  },
+  {
+    "n": 5,
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-4WJG44PDZ0&gtm=45je6bb1v9121535428za20oxf1&_p=1794663263308&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAI&cid=555345599.1794663264&frm=0&ngs=1&pscdl=noapi&rcb=19&sr=1589x894&uaa=x86&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.52%7CChromium%3B157.0.8103.52&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120412526~120420416~120469145~120469153~121246026~121246034~121284208&sid=1794663263&sct=1&seg=0&dl=https%3A%2F%2Fwww.arrt.org%2Fpages%2Fverify-credentials&dt=Verify%20Credentials%20-%20ARRT&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=5242",
+    "type": "fetch",
+    "status": 204,
+    "content_type": "text/plain",
+    "post_data": null,
+    "size_bytes": 0,
+    "saved_as": "05_POST_collect.txt"
+  },
+  {
+    "n": 6,
+    "method": "GET",
+    "url": "https://www.arrt.org/api/userinfo",
+    "type": "xhr",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "post_data": null,
+    "size_bytes": 76,
+    "saved_as": "06_GET_userinfo.txt"
+  },
+  {
+    "n": 7,
+    "method": "GET",
+    "url": "https://www.arrt.org/api/userinfo",
+    "type": "xhr",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "post_data": null,
+    "size_bytes": 76,
+    "saved_as": "07_GET_userinfo.txt"
+  },
+  {
+    "n": 8,
+    "method": "GET",
+    "url": "https://www.arrt.org/api/userinfo",
+    "type": "xhr",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "post_data": null,
+    "size_bytes": 76,
+    "saved_as": "08_GET_userinfo.txt"
+  },
+  {
+    "n": 8,
+    "method": "GET",
+    "url": "https://www.arrt.org/favicon.ico?v=FT5c73cjbIFf3Mm-8Xgir0aq0zSY9opQh3Z7v-lYbDY",
+    "type": "other",
+    "status": 200,
+    "content_type": "image/x-icon",
+    "post_data": null,
+    "size_bytes": 15086,
+    "saved_as": "08_GET_favicon.ico.txt"
+  },
+  {
+    "n": 10,
+    "method": "GET",
+    "url": "https://rum-collector-2.pingdom.net/img/beacon.gif?id=5d9cd3d605a241000800057c&sAW=1541&sAH=894&bIW=1036&bIH=781&pD=24&dPR=1&or=landscape-primary&nT=0&rC=0&nS=0&cS=652&cE=1466&dLE=652&dLS=652&fS=48&hS=910&rE=-1&rS=-1&reS=1466&resS=1783&resE=2056&uEE=-1&uES=-1&dL=1791&dI=4572&dCLES=4572&dCLEE=4603&dC=5390&lES=5391&lEE=5395&s=nt&title=Verify%20Credentials%20-%20ARRT&path=https%3A%2F%2Fwww.arrt.org%2Fpages%2Fverify-credentials&ref=&sId=w2elegei&sST=1794663264&sIS=1&rV=0&v=1.4.1",
+    "type": "xhr",
+    "status": 200,
+    "content_type": "",
+    "post_data": null,
+    "size_bytes": 0,
+    "saved_as": "10_GET_beacon.gif.txt"
+  },
+  {
+    "n": 11,
+    "method": "GET",
+    "url": "https://www.arrt.org/js/custom/VerifyCredentialsList.js?v=6tasN2nLZYJl4F-a7xmFV9tHCjdAVxQzapguk2ps03c",
+    "type": "xhr",
+    "status": 200,
+    "content_type": "text/javascript",
+    "post_data": null,
+    "size_bytes": 1238,
+    "saved_as": "11_GET_VerifyCredentialsList.js.txt"
+  },
+  {
+    "n": 11,
+    "method": "POST",
+    "url": "https://www.arrt.org/VerifyCredentials/SearchByName",
+    "type": "xhr",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "post_data": "firstName=a&lastName=adams&captchaSuccessCode=0cAFcWeA772WXnM5-JGV7JVe-SKCvbfWpuWsXgZqPwRKr78nb6tNEqw17-tLXxISsFkYu5w6qm_QrS7whCvevuhzFNk0ek2ATXEVoVzkKNdueFPw5mx8FOnAzb17pnNbRFIoVg-x9VQgB4v8XEGvVMREWyjgV5qPSnFGb9NjiYxNrdMGVgqpgpmdf8VqtZfZRifG7ia2l8WU0YLkA61nIMOrudai1EfW2jQ20oRw3XOjWYK6RpBQbq60GOYLXmwFaPOcRQe4-Zul_ldJEdnWR5ZKjn6ernCAmaw221CeQfycX049cEyfWL7MBPosfMSAxrHDEdzWhr37_Fum8uJqEcfSfl8Q7fL8AOGIyLakhPNDuLKy-GXIbwg6UCo3Kr8NXPEXxrvGDijkXHKyjpSIw7eKAhuzob24bcDdx7p5sowBfCANaA7IONN6im2imsgbLU9No44pjxtR-vC8W9kfP6c7HX3LXbv6-gyM3Vu2tF_ycPiY1yZLvpFI5g9kjJHJlE9UEIwMopCSg6bteetKYmUTCC-6NQvRLq9hKVzsWHyp2siX0UBNNNZoJDp1tjiCY2gOCQ0rg3Z0HUtYSvKVislmDie0RgSvBMRSwsdn_YhqnjD2LgvBSDei1xs7EnWUj0vUSX10AepJElnssvukCiT5hmg069O-XZi2BpLzMka4NXN3DdvRbnZvgrsy0UUA62BJbVXJAQRr3iI42Zl_mhOwXNAnQvlgA7_7YGfwNbI656xzqJX05mPZsMFrYqYWcqm5IRcHs4Q37zJf4rg7KTqTj57J63uSvp2A3pb8kZlyoPwyN3Ir3u6U-X4tTlvy6Dce3imBFfUlzKkA9_0L3BJMtrRQIUuS0ONHfPV4ZGah74WoVDJFYCk7HRyN3EO_GvzYWMOyLdoGD7ON5Ek8YPgyQbNEXmMH4un4zJSvGeXYbhrAMTx_UeO0WgI-elqfuLLTI64JYZa-s3TFySC8XtklGOLyLYJAbI2AodN2ljIXL9Vp2e143KNc89oi_IZ8DGZsL2eT6Mk3Dt15La0U2ZyCjUIHZrAVJplLJ8aG2lQSW-C8YASnDC6aBxwz1Ansxg_r6B14gBTIIQrwSVbLCCTKhj59T6DmXsZiilNMU5159RTliJSOX3WKwPTCciabWxd9mjffI689rpIYrtUIyJ9Tabk_dU7QRLi1NNBL8An4tFq7SIcfZxBOw5dZ2sMUmQYWNO5eo1wvQrvhc7NEfsffElU3FKPW2yW-smKMM4V9LNTzySZ8juaYiUFgPJ9PZY9qijy_Kx-yh_FP0fo8lUwzxpY8VicLPiC5LhCt0foromT0z3DtXDGKWvjcdFaYuoZiBb0xvETwsQuIb3T5HPezoKgNVwLbjy9uBADui-r_-4UiO1PK7FOmZIFF5_r9-TSARceBMAgEHpH15TqwhdzeJH4Ooz0xbWI1FqKV4RUqqXTWgTzeXvmHr-pVrFXzLw7oRLO2gF7xmeRM7SvGUPBdfQH-tAF8oBg-Ydb7EpJAOjhgVGHet7lIJP1Nxv1RtfMXBqCsHIPrp2bJuRyr32kQvsdilfJ6niDuN8rwooUrkP5rx8Ym8Z45ulLC0J_Ol93KmU4bgx1_u3POY5weH42IKOH8WpOlLjoehSgjhQZSJAvgzZVN-I7G0wegIH3-kOcrwaZlx3A2RBZjDSr1mTsQGDJgQUj-YX72tIr2TqHKJvpLb7EPivhBhYzisgh3gK7sSncMgPTTqmu1YGgAjuubZgLrpcBuip89_50_hdYp24M1lnZtBgZhES6AhcYoI6PYqrf896v4GlkTLrTbsJ-e_nHtWJWU7GmsUpKY5X6x7NodGUEj94kU1nEdKwT_AupFwQ6o2wm9rK4IoOF1sWddVE2MOUR_tG2SJp0E5-Xazknk1wd-bycTu9Emb8mNhD4EYBY8RELkuidV4BTLSUo64-y_2eCo3ejEabfExCLrPPnf7ccHaBmMvpm8hb1IaC1VOlWRB30gc9cu3KjgJ9Jxj7DV-Txc1GqBEAz_HKZjIyIwRfniaVsiqgRWG7P-3AG6KFz8vYXKsuGNTtjtFVrcbls_3I0xaBX6ZVoGIG4orfhkjSzPJkv34cEizjCJLmN95i9z1yU4GZqR8p_CoGUOOHiPqmqLOKP1iIO51ZGa1QwxyrtejKYGrlQZdVmBT_NcGG7NXw1MTOLXna7-WVdJDvjGE9haLMTwCRjVwErd3xGW8qJ-kHS9Lcd0DcN7hW2ymtrj1FMCzj3UR7PDREXLpq41NIPRgJ06fzVwItd-GOrDtRzI3yCFV7pbbDSNPj0ekFL-TIslYBuOfx0S0_AdZ5QPj3cUFLD6FPd2c2rZFCABOfEkvsQGCbN8ZKyMwWXeH7GvR2K4_sHV4WofnVIWcoOeq8ODBXYxbfzr33EgYuIod97TvCLwn8CeDkgG3XE10XiBFc6AgCA3e7JVEhHCoDTRyUBN96sHkAJeFCfpMMxJlQH0CkiQlqHK6aF1RXn_Fwwm3JEhTMFNlT9EncxskFQF0u1tNNh4qHf5Md3Q1W6JVa5LmLB_1xZt7af6EWqs0tquNmn4xkIjQeuZ1oy6h9P5c5LPLAuy0hBmcRXLv1CZTSw-eZ4kfNW-Ez8AIJ4bBNb8MF1uvh",
+    "size_bytes": 45257,
+    "saved_as": "11_POST_SearchByName.txt"
+  },
+  {
+    "n": 13,
+    "method": "GET",
+    "url": "https://www.arrt.org/js/custom/VerifyCredentialsDetails.js?v=eUv64rIuk9d5FBH_rRPO_ObQL0F3RGaIVMXI-yOhOq8",
+    "type": "xhr",
+    "status": 200,
+    "content_type": "text/javascript",
+    "post_data": null,
+    "size_bytes": 1059,
+    "saved_as": "13_GET_VerifyCredentialsDetails.js.txt"
+  },
+  {
+    "n": 13,
+    "method": "POST",
+    "url": "https://www.arrt.org/VerifyCredentials/GetDisplayDetails",
+    "type": "xhr",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "post_data": "key=CfDJ8KZJUVg_9a9Ev8mWlQua9ZXeZU7caIpqs3Qvu2hPFzeJFdESigUfgrbuCoaK4kDbXuKlHARDvZA8R9CEod1myzk9vUSpKUJi2ejE2YG7mtOU7crcN-ZaRAc2L2Lba5WEb6pSdT4GqwV2Ok4tLuK8_etOxVgrXP5C5ywOeN0nTEz5yzhU7T_ylSrlnRvcDs2r3z6IhGPv90YyAaaiB8HM7emwXhD9aQyrYWhxR7W6aXzzOHSJYYUEVYBqzB0N2BKdfA",
+    "size_bytes": 3408,
+    "saved_as": "13_POST_GetDisplayDetails.txt"
+  }
+]

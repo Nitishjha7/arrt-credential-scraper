@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.env
+data/raw/
+node_modules/
+frontend/dist/
+data/chrome-profile*/
+.pytest_cache/
+~$*
+.vscode/
+*.pyc
+data/arrt_credentials.csv
+data/run_stats.json

@@ -1,0 +1,88 @@
+
+<link rel="stylesheet" href="/css/verify-credentials.css?v=_BkjZ6l1RVdID7tQUcCOVROZdnjrrmxwfMRlx_ub34Y" />
+<script>
+    var FooterMessage = '#';
+    var FooterMessage2 = '#hdnEndingContent';
+</script>
+<script src="/js/custom/VerifyCredentialsDetails.js?v=eUv64rIuk9d5FBH_rRPO_ObQL0F3RGaIVMXI-yOhOq8"></script>
+
+<div class="modal-content border-rad4">
+    <div class="modal-header screen-only">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title margin0" id="myModalLabel">Verify ARRT Credentials - Individual Results</h4>
+    </div>
+    <div class="modal-body">
+        <div class="print-only header">
+            <img src="/images/printoutHeaderImage.png" class="printHeaderImage" alt="Print Header Image" />
+            <br />
+        </div>
+        <a href="javascript:window.print()" class="screen-only btn btn-primary" title="Print verification">
+            PRINT VERIFICATION <i class="fa fa-print fa-fw" id="btnPrint"></i>
+        </a>
+        <table class="table table-condensed">
+            <tr>
+                <th>Name</th>
+                <td>A&#x27;liyah A Adams</td>
+            </tr>
+                <tr>
+                    <th>City, State, Zip</th>
+                    <td>Albany, GA 31701</td>
+                </tr>
+                    <tr>
+                        <th>Country</th>
+                        <td>U.S.A.</td>
+                    </tr>
+            <tr>
+                <th>
+Credentials                </th>
+                <td>
+                    R.T.(R)(ARRT)
+
+                </td>
+            </tr>
+                <tr>
+                    <th>Valid Thru</th>
+                    <td>
+11/2026                    </td>
+                </tr>
+                    <tr>
+                        <th>CE Biennium</th>
+                        <td>11/1/2025 to 10/31/2027</td>
+                    </tr>
+                <tr>
+                    <th>CQR Compliance <span style="white-space: nowrap;">Period(s)</span></th>
+                    <td>
+                        <table>
+                                <tr>
+                                    <td>
+                                        <strong>Radiography</strong>
+                                            <span style="white-space: nowrap;">
+                                                11/1/2032 - 10/31/2035
+                                            </span>
+                                    </td>
+                                </tr>
+                        </table>
+                    </td>
+                </tr>
+        </table>
+            <b>Credential Description</b>
+            <table>
+                    <tr>
+                        <td>(R)</td>
+                        <td>Radiography</td>
+                    </tr>
+            </table>
+            <br />
+            <div id="divDisplayDetails"></div>
+        </div>
+    <div class="modal-footer screen-only">
+
+        <button class="btn btn-default" data-dismiss="modal">Close</button>
+    </div>
+    <div class="print-only footer">
+        <br />
+        <img src="/images/printoutFooterImage.png" class="printFooterImage" alt="Print Footer Image"/>
+        <br />
+        <div class="printDate">Printed On: 11/14/2026</div>
+    </div>
+</div>
